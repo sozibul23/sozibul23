@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- Header Dynamic Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=200&section=header&text=Md%20Sozibul%20Islam%20(Sadhin)&fontSize=38&fontColor=ffffff&animation=fadeIn&subtext=Software%20Development%20Engineer%20in%20Test%20(SDET)&subfontSize=18&subfontColor=58a6ff" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=180&section=header&text=Md%20Sozibul%20Islam%20(Sadhin)&fontSize=30&fontColor=ffffff&animation=fadeIn&subtext=SDET%20%7C%20Test%20Automation%20Specialist&subfontSize=16&subfontColor=58a6ff" width="100%" alt="Header Banner" />
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://github.com/sozibul23">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=750&height=70&lines=Associate+SQA+Engineer+%26+SDET;Architecting+Robust+E2E+%26+API+Automation+Frameworks;Playwright+%7C+Selenium+%7C+REST+Assured+%7C+JMeter+%7C+CI%2FCD;Breaking+software+before+users+do+%F0%9F%90%9B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&height=42&lines=Associate+SQA+Engineer+%26+SDET;Playwright+%7C+Selenium+%7C+REST+Assured+%7C+JMeter;Building+Robust+E2E+%26+API+Automation+Frameworks;Breaking+software+before+users+do+%F0%9F%90%9B" alt="Typing SVG" />
   </a>
 
   <p align="center">
