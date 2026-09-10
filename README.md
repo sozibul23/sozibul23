@@ -1,18 +1,18 @@
 <div align="center">
 
-  <!-- Header Dynamic Banner (Light Sky-Blue to Cyan Gradient) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=200&section=header&text=Md%20Sozibul%20Islam%20(Sadhin)&fontSize=32&fontColor=ffffff&animation=fadeIn&desc=Software%20Development%20Engineer%20in%20Test%20(SDET)&descSize=17&descAlignY=62&fontAlignY=40" width="100%" alt="Header Banner" />
+  <!-- Header Dynamic Banner (Vibrant Multi-Hue Sunset Gradient) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=200&section=header&text=Md%20Sozibul%20Islam%20(Sadhin)&fontSize=32&fontColor=ffffff&animation=fadeIn&desc=Software%20Development%20Engineer%20in%20Test%20(SDET)&descSize=17&descAlignY=62&fontAlignY=40" width="100%" alt="Header Banner" />
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://github.com/sozibul23">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=1000&color=0969DA&center=true&vCenter=true&multiline=false&width=650&height=40&lines=Architecting+Robust+E2E+%26+API+Automation+Frameworks;Specialized+in+Playwright%2C+Selenium+%26+REST+Assured;Building+Scalable+CI%2FCD+Quality+Pipelines;Breaking+software+before+users+do+%F0%9F%90%9B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=1000&color=C850C0&center=true&vCenter=true&multiline=false&width=650&height=40&lines=Architecting+Robust+E2E+%26+API+Automation+Frameworks;Specialized+in+Playwright%2C+Selenium+%26+REST+Assured;Building+Scalable+CI%2FCD+Quality+Pipelines;Breaking+software+before+users+do+%F0%9F%90%9B" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <a href="https://linkedin.com/in/md-sozibul-islam"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:sozibul23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://github.com/sozibul23"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://komarev.com/ghpvc/?username=sozibul23&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS"><img src="https://komarev.com/ghpvc/?username=sozibul23&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/></a>
+    <a href="https://komarev.com/ghpvc/?username=sozibul23&color=C850C0&style=for-the-badge&label=PROFILE+VIEWS"><img src="https://komarev.com/ghpvc/?username=sozibul23&color=C850C0&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/></a>
   </p>
 
 </div>
@@ -43,8 +43,8 @@ Mission: "Ensuring zero critical defects slip into production 🚀"
 
 #### ⚡ Test Automation & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/Selenium_WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white" alt="Appium" />
   <img src="https://img.shields.io/badge/TestNG-FF6B6B?style=for-the-badge&logo=testng&logoColor=white" alt="TestNG" />
   <img src="https://img.shields.io/badge/Cucumber_BDD-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber" />
@@ -56,7 +56,7 @@ Mission: "Ensuring zero critical defects slip into production 🚀"
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
 #### 🔗 API & Performance Testing
@@ -83,11 +83,11 @@ Mission: "Ensuring zero critical defects slip into production 🚀"
 
 | Project | Highlights & Architecture | Tech Stack | Repository |
 | :--- | :--- | :--- | :---: |
-| **🛍️ Rokomari E2E Automation** | Enterprise E2E suite for Bangladesh's largest e-commerce bookstore. Implements Page Object Model (POM), data-driven CSV execution, cart calculations, and Allure reporting. | `Playwright` `TypeScript` `POM` `Allure` | [**View Code →**](https://github.com/sozibul23/rokomari-playwright-automation) |
-| **✈️ Enterprise Travel Portal E2E** | High-traffic B2B & B2C travel automation covering a 7-stage booking flow (flight search, fare rules, seat selection, promo code validation & payment confirmation). | `Playwright` `JavaScript` `POM` `CI/CD` | [**View Code →**](https://github.com/sozibul23/playwright-travel-portal-automation) |
-| **⚡ API Test Automation Suite** | Automated contract, schema, and payload regression tests for booking microservices with parameterized negative test matrices. | `REST Assured` `Java` `Postman` `JSON Schema` | [**View Code →**](https://github.com/sozibul23/API_Testing_Booking) |
-| **📈 Concurrent Load & Stress Testing** | Simulated 500+ concurrent virtual users to evaluate throughput, p95 latencies, and server resource bottlenecks under peak traffic. | `Apache JMeter` `Performance` `KPI Analysis` | [**View Code →**](https://github.com/sozibul23/Performance_Test_1) |
-| **🔐 Authentication Test Automation** | Automated authentication verification covering session retention, OTP triggers, and security alerts. | `Selenium WebDriver` `Java` `TestNG` | [**View Code →**](https://github.com/sozibul23/Selenium_Login_Automation_sadhin) |
+| **🛍️ Rokomari E2E Automation** | Enterprise E2E suite for Bangladesh's largest e-commerce bookstore. Implements Page Object Model (POM), data-driven CSV execution, cart calculations, and Allure reporting. | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Allure](https://img.shields.io/badge/Allure-FF6900?style=flat-square&logo=qameta&logoColor=white) | [**View Code →**](https://github.com/sozibul23/rokomari-playwright-automation) |
+| **✈️ Enterprise Travel Portal E2E** | High-traffic B2B & B2C travel automation covering a 7-stage booking flow (flight search, fare rules, seat selection, promo code validation & payment confirmation). | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CI/CD](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) | [**View Code →**](https://github.com/sozibul23/playwright-travel-portal-automation) |
+| **⚡ API Test Automation Suite** | Automated contract, schema, and payload regression tests for booking microservices with parameterized negative test matrices. | ![REST Assured](https://img.shields.io/badge/REST_Assured-008080?style=flat-square&logo=rest&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) | [**View Code →**](https://github.com/sozibul23/API_Testing_Booking) |
+| **📈 Concurrent Load & Stress Testing** | Simulated 500+ concurrent virtual users to evaluate throughput, p95 latencies, and server resource bottlenecks under peak traffic. | ![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white) ![KPI](https://img.shields.io/badge/Metrics-KPI_Analysis-662D91?style=flat-square) | [**View Code →**](https://github.com/sozibul23/Performance_Test_1) |
+| **🔐 Authentication Test Automation** | Automated authentication verification covering session retention, OTP triggers, and security alerts. | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-FF6B6B?style=flat-square&logo=testng&logoColor=white) | [**View Code →**](https://github.com/sozibul23/Selenium_Login_Automation_sadhin) |
 
 ---
 
@@ -97,17 +97,17 @@ Mission: "Ensuring zero critical defects slip into production 🚀"
   <table border="0">
     <tr>
       <td>
-        <img height="185em" src="https://github-stats-extended.vercel.app/api?username=sozibul23&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+        <img height="185em" src="https://github-stats-extended.vercel.app/api?username=sozibul23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img height="185em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sozibul23&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+        <img height="185em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sozibul23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sozibul23&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=sozibul23&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -133,6 +133,6 @@ Mission: "Ensuring zero critical defects slip into production 🚀"
 
 **⭐ Thank you for visiting my profile! Feel free to explore my repositories and reach out for collaboration.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=90&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=90&section=footer" width="100%" />
 
 </div>
